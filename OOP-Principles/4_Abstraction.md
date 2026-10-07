@@ -121,6 +121,8 @@ C++ has no `interface` keyword. The usual way to get the same effect is an abstr
   <img src="../Media/interface.png" alt="Interface"/>
 </p>
 
+---
+
 ### Code (C++)
 
 ```cpp
