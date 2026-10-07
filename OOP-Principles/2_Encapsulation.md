@@ -121,7 +121,9 @@ int main() {
 
 The outside code can use `deposit`, `withdraw`, and `getBalance`, but it can never set the balance to a nonsense value directly.
 
-![Encapsulation](../Media/encapsulation.png)
+<p align="center">
+  <img src="../Media/encapsulation.png" />
+</p>
 
 ---
 
