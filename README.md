@@ -70,9 +70,3 @@ Some snippets in the notes are fragments that focus on one idea. If a snippet ha
 
 **SOLID principles**, the five design principles that apply OOP well: Single Responsibility, Open/Closed, Liskov Substitution, Interface Segregation, and Dependency Inversion. They appear in the diagram above as the next topic, and they build directly on the four pillars.
 
----
-
-## Reference Videos
-
-- [Part 1](https://www.youtube.com/watch?v=CnnSDKfnkxk)
-- [Part 2](https://www.youtube.com/watch?v=JiyLv0TMMVM)
