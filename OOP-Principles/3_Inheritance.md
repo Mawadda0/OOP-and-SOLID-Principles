@@ -22,9 +22,14 @@ Suppose we have a `Person` class with attributes, getters, and setters. A `Boy` 
 
 The relationship is called **is-a**: a `Boy` is a `Person`, a `Dog` is an `Animal`. If the sentence "child is a parent" sounds wrong, inheritance is probably the wrong tool.
 
-![Inheritance](../Media/inheritance1.png)
+<p align="center">
+  <img src="../Media/inheritance1.png" alt="Inheritance"/>
+</p>
 
-![Inheritance](../Media/inheritance2.png)
+<p align="center">
+  <img src="../Media/inheritance2.png" alt="Inheritance"/>
+</p>
+
 
 ---
 
@@ -159,7 +164,9 @@ Rule of thumb:
 - "is-a" -> inheritance
 - "has-a" -> composition
 
-[Composition](../Media/compostion.png)
+<p align="center">
+  <img src="../Media/compostion.png" alt="Composition"/>
+</p>
 
 ### Code (C++)
 
@@ -199,7 +206,11 @@ Inheritance (also called generalization) is a different kind of relationship. It
 
 Two objects work together, but neither one owns the other and each exists independently. An `Owner` feeds a `Pet`, and the `Pet` pleases the `Owner`.
 
-[Association](../Media/association.png)
+
+<p align="center">
+  <img src="../Media/association.png" alt="Association"/>
+</p>
+
 
 ```cpp
 #include <iostream>
@@ -230,7 +241,10 @@ int main() {
 
 A `School` has `Student`s, and a student is part of the school. But if a school is closed or has no students, the students are still real objects that exist on their own, and the school can exist as an independent entity too. The `School` only holds references to students it does not control.
 
-[Aggregation](../Media/aggregation.png)
+
+<p align="center">
+  <img src="../Media/aggregation.png" alt="Aggregation"/>
+</p>
 
 ```cpp
 #include <vector>

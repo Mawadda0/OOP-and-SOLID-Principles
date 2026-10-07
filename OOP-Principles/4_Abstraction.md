@@ -23,7 +23,9 @@ They are often confused:
 
 An abstract method hides the implementation from the caller: you call `makeSound()` and do not need to know how each animal produces its sound.
 
-[Abstraction branching into Interface and Abstract Class](../Media/abstraction.png)
+<p align="center">
+  <img src="../Media/abstraction.png" alt="Abstraction branching into Interface and Abstract Class"/>
+</p>
 
 ---
 
@@ -115,7 +117,9 @@ In Java, an interface can only hold properties that are `public static final`:
 
 C++ has no `interface` keyword. The usual way to get the same effect is an abstract class made only of pure virtual functions and no data.
 
-[Interface](../Media/interface.png)
+<p align="center">
+  <img src="../Media/interface.png" alt="Interface"/>
+</p>
 
 ### Code (C++)
 

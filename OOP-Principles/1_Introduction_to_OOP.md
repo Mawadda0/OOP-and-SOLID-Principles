@@ -158,4 +158,6 @@ OOP is built on four core concepts. Each one has its own file in this summary.
 | Abstraction | Show what an object does, hide how it does it |
 | Polymorphism | One interface, many forms of behavior |
 
-![The Four Pillars of OOP](../Media/oop-pillars.png)
+<p align="center">
+  <img src="../Media/oop-pillars.png" alt="The Four Pillars of OOP"/>
+</p>

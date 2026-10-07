@@ -22,8 +22,9 @@ There are two kinds:
 | Achieved by | Method overloading (and constructor overloading) | Method overriding with inheritance |
 | Also called | Static binding, early binding | Dynamic binding, late binding |
 
-[Polymorphism](../Media/polymorphism.png)
-
+<p align="center">
+  <img src="../Media/polymorphism.png" alt="Polymorphism"/>
+</p>
 ---
 
 ## Method Overloading (Compile-Time)
