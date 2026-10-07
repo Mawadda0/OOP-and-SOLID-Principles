@@ -25,6 +25,7 @@ There are two kinds:
 <p align="center">
   <img src="../Media/polymorphism.png" alt="Polymorphism"/>
 </p>
+
 ---
 
 ## Method Overloading (Compile-Time)
