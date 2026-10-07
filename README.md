@@ -40,27 +40,7 @@ Suggested order: read the files from 1 to 5 in sequence, since inheritance, abst
 
 ---
 
-## The Four Pillars at a Glance
-
-| Pillar | Idea | Keywords |
-|---|---|---|
-| Encapsulation | Bundle data and behavior, and control access to them | Access modifiers, getters, setters |
-| Inheritance | Reuse code through an is-a relationship | Parent, child, overriding, composition (has-a) |
-| Abstraction | Show what an object does, hide how it does it | Abstract class, interface, contract |
-| Polymorphism | One call, many forms of behavior | Overloading (compile-time), overriding (run-time) |
-
-A useful way to remember how they connect: encapsulation protects the data, inheritance reuses it, abstraction simplifies how it is used, and polymorphism lets different objects respond to the same call in their own way.
-
----
-
-## Running the Code
-
-The examples are written for C++17. To compile one, copy it into a `.cpp` file and run:
-
-```bash
-g++ -std=c++17 -Wall main.cpp -o main
-./main
-```
+## Note
 
 Some snippets in the notes are fragments that focus on one idea. If a snippet has no `main()`, add the includes and a `main()` around it, and use `using namespace std;` as the examples do.
 
