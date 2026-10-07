@@ -26,6 +26,8 @@ The relationship is called **is-a**: a `Boy` is a `Person`, a `Dog` is an `Anima
   <img src="../Media/inheritance1.png" alt="Inheritance"/>
 </p>
 
+---
+
 <p align="center">
   <img src="../Media/inheritance2.png" alt="Inheritance"/>
 </p>
@@ -167,6 +169,8 @@ Rule of thumb:
 <p align="center">
   <img src="../Media/compostion.png" alt="Composition"/>
 </p>
+
+---
 
 ### Code (C++)
 
