@@ -29,12 +29,12 @@ For a quick review, read only the Concept and Summary sections of each file. For
 
 | # | File | What it covers |
 |---|---|---|
-| 1 | [Introduction to OOP](1_Introduction_to_OOP.md) | Programming paradigms, why OOP, classes and objects, attributes and methods, constructors, the four pillars |
-| 2 | [Encapsulation](2_Encapsulation.md) | Bundling data and behavior, access modifiers, getters and setters |
-| 3 | [Inheritance](3_Inheritance.md) | Parent and child classes, overriding, constructors in inheritance, composition, association, aggregation |
-| 4 | [Abstraction](4_Abstraction.md) | Abstract classes, interfaces, and when to use each |
-| 5 | [Polymorphism](5_Polymorphism.md) | Compile-time and run-time polymorphism, overloading, overriding, common mistakes |
-| 6 | [Extras](6_Extras_Static_and_Object_Lifecycle.md) | Optional: static members, the `this` pointer, object lifecycle, stack vs. heap |
+| 1 | [Introduction to OOP](/OOP-Principles/1_Introduction_to_OOP.md) | Programming paradigms, why OOP, classes and objects, attributes and methods, constructors, the four pillars |
+| 2 | [Encapsulation](/OOP-Principles/2_Encapsulation.md) | Bundling data and behavior, access modifiers, getters and setters |
+| 3 | [Inheritance](/OOP-Principles/3_Inheritance.md) | Parent and child classes, overriding, constructors in inheritance, composition, association, aggregation |
+| 4 | [Abstraction](/OOP-Principles/4_Abstraction.md) | Abstract classes, interfaces, and when to use each |
+| 5 | [Polymorphism](/OOP-Principles/5_Polymorphism.md) | Compile-time and run-time polymorphism, overloading, overriding, common mistakes |
+| 6 | [Extras](/OOP-Principles/6_Extras_Static_and_Object_Lifecycle.md) | Optional: static members, the `this` pointer, object lifecycle, stack vs. heap |
 
 Suggested order: read the files from 1 to 5 in sequence, since inheritance, abstraction, and polymorphism build on each other. File 6 is optional and can be read at any point after file 1.
 
