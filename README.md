@@ -8,7 +8,6 @@ The ideas themselves are language independent. C++ is used for the code because 
   <img src="/Media/oop-overview.svg" alt="OOP and SOLID overview"/>
 </p>
 
-
 ---
 
 ## How to Use This Repo
